@@ -1,3 +1,22 @@
-# My Awesome Book
+# Purpose
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The purpose of this guide is to provide an overview of Casepedia and the features available in Casepedia.
+
+# Typographical Conventions
+
+The guide complies with the following typographical conventions:
+
+| Typeface |  |
+| :--- | :--- |
+|  |  |
+|  |  |
+| ![](/assets/import.png) |  |
+|  |  |
+|  |  |
+
+
+
+
+
+
+
