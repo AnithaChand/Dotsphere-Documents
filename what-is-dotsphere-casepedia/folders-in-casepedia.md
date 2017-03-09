@@ -28,5 +28,5 @@ The default Super User can perform the following operations in the Root folder:
 
 > In addition to the default Super User, the users that are configured as Super Users can also access the Root folder and perform operations accordingly The Administrator or the default Super User can create Super Users in Casepedia Configurations using the Super Users feature.
 
-
+The Root folder is displayed in Casepedia home page as shown in the following figure:
 
