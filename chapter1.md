@@ -45,6 +45,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * .tif
 
 * .txt
+
 * .xls
 * .xlsx
 
@@ -53,7 +54,26 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * Document Audit—enables to track actions performed on a document.
 
 * Export document and store document in the local system.
+
 * Documents can be opened and viewed in a HTML document viewer. The following features are available in the Document Viewer:
+
+* You can scroll between different pages of the document using thumbnails
+* Zoom in, Zoom Out and Rubber band zoom
+* Fit to width, Fit to Height and Fit to Window
+* Go to Next/previous page/page number
+* Rotate Left/Right
+* Toggle thumbnails
+* Picture Controls
+* Image Info
+*  About
+*  Save
+* Export Document
+* Print
+* Annotations such as Sticky Notes, Text based stamps, Image Stamps, Highlight, Line, Arrow, Freehand, Filled Shapes, Unfilled Shapes.
+
+
+
+
 
 
 
