@@ -73,6 +73,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * Picture Controls
 
 * Image Info
+
 * About
 * Save
 * Export Document
