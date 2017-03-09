@@ -36,3 +36,9 @@ The Super User can authorize Casepedia users that can access the Root folder. Th
 
 Super Users can authorize either Users or Roles for the Root Folder.
 
+#### **Authorizing Users or Roles**
+
+**To Authorize Users or Roles**
+
+
+
