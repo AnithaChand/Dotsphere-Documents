@@ -69,6 +69,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * Rotate Left/Right
 
 * Toggle thumbnails
+
 * Picture Controls
 * Image Info
 * About
@@ -92,4 +93,6 @@ Click Quick** Actions** &gt; **Casepedia**, the Casepedia home page is displayed
 In the Casepedia home page, you can view a left pane and a right pane.
 
 In the left pane, you can view the Root folder. The Root folder is the master folder which is created by default when Casepedia is installed. In the right pane, you can view the details of the selected folder. You can perform various operations under a Root folder and also on a folder under the Root based on the authorization.
+
+
 
