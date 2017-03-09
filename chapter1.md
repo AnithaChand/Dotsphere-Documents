@@ -47,6 +47,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * .txt
 
 * .xls
+
 * .xlsx
 
 * Document Search and document content search—enables quick access to the required to document and content within a document.
@@ -58,6 +59,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * Documents can be opened and viewed in a HTML document viewer. The following features are available in the Document Viewer:
 
 * You can scroll between different pages of the document using thumbnails
+
 * Zoom in, Zoom Out and Rubber band zoom
 * Fit to width, Fit to Height and Fit to Window
 * Go to Next/previous page/page number
@@ -65,11 +67,19 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * Toggle thumbnails
 * Picture Controls
 * Image Info
-*  About
-*  Save
+* About
+* Save
 * Export Document
 * Print
 * Annotations such as Sticky Notes, Text based stamps, Image Stamps, Highlight, Line, Arrow, Freehand, Filled Shapes, Unfilled Shapes.
+
+# Get Started
+
+
+
+
+
+
 
 
 
