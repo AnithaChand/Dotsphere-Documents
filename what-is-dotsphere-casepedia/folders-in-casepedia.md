@@ -32,5 +32,7 @@ The Root folder is displayed in Casepedia home page as shown in the following fi
 
 ### Root Folder Permissions
 
+The Super User can authorize Casepedia users that can access the Root folder. The users can perform operations on the Root folder base as per their authorization.
 
+Super Users can authorize either Users or Roles for the Root Folder.
 
