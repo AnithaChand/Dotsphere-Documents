@@ -17,6 +17,7 @@ The following are the document management features available in Casepedia:
 * Content Consistency—Content consistency through document check-in and check-out.
 
 * Adding/Editing Meta Data—Document indexing and re-indexing \(Update Metadata\).
+
 * Lookups for Document Class—Lookups can be created for document class that enables a user to select pre-defined values for document attributes that are associated with a document class while importing or searching for documents.
 * Support for Different Content Formats—Casepedia supports various types of content including Images, PDFs, MS Office, Audio files, Video files etc. The types of files to be supported can be defined in the system.
 * Support for Different Document Formats—Dotsphere Casepedia supports new HTML5 Document Viewer using which users can view different document formats and also can perform various operations on the document including annotations.
