@@ -1,4 +1,4 @@
-# What is Dotsphere Casepedia?
+* # What is Dotsphere Casepedia?
 
 Dotsphere Casepedia is an Enterprise Content Management system that can be used to create and manage electronic content. This User Guide contains all of the information you need to learn about and be productive using Dotsphere Casepedia.
 
@@ -21,31 +21,29 @@ The following are the document management features available in Casepedia:
 * Lookups for Document Class—Lookups can be created for document class that enables a user to select pre-defined values for document attributes that are associated with a document class while importing or searching for documents.
 
 * Support for Different Content Formats—Casepedia supports various types of content including Images, PDFs, MS Office, Audio files, Video files etc. The types of files to be supported can be defined in the system.
+
 * Support for Different Document Formats—Dotsphere Casepedia supports new HTML5 Document Viewer using which users can view different document formats and also can perform various operations on the document including annotations.
 
 You can view the following document formats in Casepedia using the HTML5 Document Viewer.
 
 * .bmp
 
-*  .doc
+* .doc
 
- .docx
+* .docx
 
-.gif
+* .gif
 
-.jpg
+* .jpg
 
- .pdf
+* .pdf
 
- .png
+* .png
+* .ppt
+* .tif
+* .txt
+* .xls
+* .xlsx
 
-.ppt
 
-.tif
-
- .txt
-
- .xls
-
-.xlsx
 
