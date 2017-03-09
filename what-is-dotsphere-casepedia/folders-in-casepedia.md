@@ -12,5 +12,10 @@ In the Folder UI, you can:
 * Update document metadata information
 * Check-in and check-out documents
 
+Folders are of two types:
+
+* Root Folder which is a master folder created by default with the Casepedia deployment.
+*  Folders and Sub folders that can be created within the Root folder by authorized users.
+
 
 
