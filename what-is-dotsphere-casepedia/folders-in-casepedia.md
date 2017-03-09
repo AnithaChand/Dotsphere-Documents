@@ -19,5 +19,3 @@ Folders are of two types:
 
 
 
-
-
