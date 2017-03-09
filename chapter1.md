@@ -41,12 +41,14 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * .png
 
 * .ppt
+
 * .tif
 * .txt
 * .xls
 * .xlsx
 
-* Document Search and document content search—enables quick access to the required to document and content.
+* Document Search and document content search—enables quick access to the required to document and content within a document.
+
 * Document Audit—enables to track actions performed on a document.
 * Export document and store document in the local system.
 * Documents can be opened and viewed in a HTML document viewer. The following features are available in the Document Viewer:
