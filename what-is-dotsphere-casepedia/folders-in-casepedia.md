@@ -21,5 +21,10 @@ Folders are of two types:
 
 The Root folder is the master folder which is created by default when Casepedia is installed and one or more Super User is created with the installation that can access the Root folder and perform various operations.
 
+The default Super User can perform the following operations in the Root folder:
+
+* Authorize Casepedia users for Root folder
+* Create folders under Root folder and authorize users
+
 
 
