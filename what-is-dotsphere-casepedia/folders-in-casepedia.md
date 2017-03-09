@@ -44,3 +44,5 @@ In the Casepedia home page, hover over the Root folder.The Permissions icon is d
 
 Click the icon, the Root Folder Permissions page is displayed.
 
+
+
