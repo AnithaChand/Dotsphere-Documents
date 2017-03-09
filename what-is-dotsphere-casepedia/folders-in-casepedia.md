@@ -30,5 +30,7 @@ The default Super User can perform the following operations in the Root folder:
 
 The Root folder is displayed in Casepedia home page as shown in the following figure:
 
-Root Folder Permissions
+### Root Folder Permissions
+
+
 
