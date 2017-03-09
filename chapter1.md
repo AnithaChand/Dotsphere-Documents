@@ -6,3 +6,9 @@ AWPL’s Dotsphere Casepedia is an Enterprise Content Management system that can
 
 The latest version of Casepedia has several new capabilities like creating and managing folders, creating documents within folders with or without indexing, document class and document based access control, inherited ACL’s from parent folder, content search and support for viewing of documents \(Standard MimeType\) and annotations in the new HTML5 viewer.
 
+The following are the document management features available in Casepedia:
+
+
+
+
+
