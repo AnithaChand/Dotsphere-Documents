@@ -61,6 +61,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * You can scroll between different pages of the document using thumbnails
 
 * Zoom in, Zoom Out and Rubber band zoom
+
 * Fit to width, Fit to Height and Fit to Window
 * Go to Next/previous page/page number
 * Rotate Left/Right
@@ -75,15 +76,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 
 # Get Started
 
+You can access Dotsphere Casepedia through Dotsphere Case Manager Application.
 
-
-
-
-
-
-
-
-
-
-
+To access Dotsphere Casepedia, make sure the Dotsphere Case Manager and Dotsphere Casepedia are installed and all necessary configurations or settings are done. Once all necessary configurations are done, you can access Dotsphree Case Manager using a URL and the Login page is displayed as shown in the following figure:
 
