@@ -42,3 +42,5 @@ Super Users can authorize either Users or Roles for the Root Folder.
 
 In the Casepedia home page, hover over the Root folder.The Permissions icon is displayed.
 
+Click the icon, the Root Folder Permissions page is displayed.
+
