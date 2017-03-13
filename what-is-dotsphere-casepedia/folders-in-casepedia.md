@@ -46,3 +46,13 @@ Click the icon, the Root Folder Permissions page is displayed.
 
 
 
+You can view the following fields in the Root Folder Permissions page:
+
+* Inherited Permissions—Root Folder is the master folder and it is the first folder in the Folder Hierarchy. Hence, Inherited Permissions will be greyed out and also it is not applicable for Root Folder.
+* Add Permissions—enables to assign permissions users or roles.
+* Local Permissions—enables to assign local permissions. 
+
+##### Authorizing Roles for Root Folder
+
+
+
