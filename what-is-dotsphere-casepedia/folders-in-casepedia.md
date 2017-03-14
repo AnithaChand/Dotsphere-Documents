@@ -84,3 +84,5 @@ Select the permission you want to assign to the selected roles and click **ACL**
 
 **5**.Click **Add ACL**, the role name with the associated permissions is displayed in the **Local Permissions **section.
 
+![](/assets/AuthorizationsRole6.jpg)
+
