@@ -88,7 +88,7 @@ Select the permission you want to assign to the selected roles and click **ACL**
 
 **6**.Click **Save **to save the permissions.
 
-> In the **Root Folder Permissions** page, if you click without saving permissions, then the permissions will not be assigned to the selected roles.
+> In the **Root Folder Permissions** page, if you click ![](/assets/ACL-CloseIcon.jpg)without saving permissions, then the permissions will not be assigned to the selected roles.
 
 
 
