@@ -82,7 +82,5 @@ You can view the following fields in the ACL section:
 
 Select the permission you want to assign to the selected roles and click **ACL** and then **Save**.
 
-**5**.Click **Add ACL**, the role name with the associated permissions is displayed in the Local Permissions section
-
-
+**5**.Click **Add ACL**, the role name with the associated permissions is displayed in the **Local Permissions **section
 
