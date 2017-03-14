@@ -80,5 +80,5 @@ You can view the following fields in the ACL section:
 
 ![](/assets/AuthorizationsRoles-MultipleRoles.jpg)
 
-
+Select the permission you want to assign to the selected roles and click **ACL** and then **Save**.
 
