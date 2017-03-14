@@ -1,4 +1,4 @@
-# Folders in Casepedia
+* # Folders in Casepedia
 
 In Casepedia, a folder is a location where you can store and organize documents.
 
@@ -52,16 +52,16 @@ You can view the following fields in the Root Folder Permissions page:
 
 ##### Authorizing Roles for Root Folder
 
-1. In the **Permissions** page, select** Role**.
-2. In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the ![](/assets/SearchIcon.jpg) icon.
+1. \*In the **Permissions** page, select** Role**.  ...  
+2. \*In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the ![](/assets/SearchIcon.jpg) icon.     .......    
 
 ![](/assets/AuthorizingRole1.jpg)
 
-1. The role names that match with the entered search criteria are displayed.
+1. \*The role names that match with the entered search criteria are displayed.
 
 ![](/assets/AuthorizingRole2.jpg)
 
-1. Select a role for which you want to assign permissionSelect a role for which you want to assign permission.
+1. \*Select a role for which you want to assign permissionSelect a role for which you want to assign permission.
 
 
 
