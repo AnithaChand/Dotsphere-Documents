@@ -57,11 +57,11 @@ You can view the following fields in the Root Folder Permissions page:
 
 ![](/assets/AuthorizingRole1.jpg)
 
-1. \*The role names that match with the entered search criteria are displayed.
+The role names that match with the entered search criteria are displayed.
 
 ![](/assets/AuthorizingRole2.jpg)
 
-1. \*Select a role for which you want to assign permissionSelect a role for which you want to assign permission.
+1. Select a role for which you want to assign permissionSelect a role for which you want to assign permission.
 
 
 
