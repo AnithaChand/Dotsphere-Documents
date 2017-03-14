@@ -72,9 +72,9 @@ The role names that match with the entered search criteria are displayed.
 
 You can view the following fields in the ACL section:
 
-* Type—displays the appropriate icon for the selected user or role
-* Name—displays the name of the selected role
-* Add, View, Owner—displays check boxes to select the operation for which you want to assign the permission
+* **Type**—displays the appropriate icon for the selected user or role
+* **Name**—displays the name of the selected role
+* **Add**, **View**, **Owne**r—displays check boxes to select the operation for which you want to assign the permission
 
 
 
