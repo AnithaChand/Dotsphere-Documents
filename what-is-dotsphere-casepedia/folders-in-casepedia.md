@@ -52,7 +52,16 @@ You can view the following fields in the Root Folder Permissions page:
 
 ##### Authorizing Roles for Root Folder
 
-In the **Permissions** page, select** Role**.
+1. In the **Permissions** page, select** Role**.
+2. In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the ![](/assets/SearchIcon.jpg) icon.
 
-In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the ![](/assets/SearchIcon.jpg) icon.
+![](/assets/AuthorizingRole1.jpg)
+
+The role names that match with the entered search criteria are displayed.
+
+![](/assets/AuthorizingRole2.jpg)
+
+1. Select a role for which you want to assign permission
+
+
 
