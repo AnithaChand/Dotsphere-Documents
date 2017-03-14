@@ -78,5 +78,7 @@ You can view the following fields in the ACL section:
 
 > You can select multiple roles and assign permissions to those roles. Multiple roles are displayed as shown in the following figure:
 
+![](/assets/AuthorizationsRoles-MultipleRoles.jpg)
+
 
 
