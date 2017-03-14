@@ -77,6 +77,7 @@ You can view the following document formats in Casepedia using the HTML5 Documen
 * About
 
 * Save
+
 * Export Document
 * Print
 * Annotations such as Sticky Notes, Text based stamps, Image Stamps, Highlight, Line, Arrow, Freehand, Filled Shapes, Unfilled Shapes.
@@ -87,9 +88,13 @@ You can access Dotsphere Casepedia through Dotsphere Case Manager application.
 
 To access Dotsphere Casepedia, make sure the Dotsphere Case Manager and Dotsphere Casepedia are installed and all necessary configurations or settings are done. Once all necessary configurations are done, you can access Dotsphree Case Manager using a URL and the Login page is displayed as shown in the following figure:
 
-Enter the user ID and password and then click Sign In. The DSCM home page is displayed.
+![](/assets/Loging-Page.jpg)
+
+Enter the user ID and password and then click **Sign In**. The DSCM home page is displayed.
 
 Dotsphere Casepedia can be accessed from DSCM home page as shown in the following figure.
+
+![](/assets/AccessingCasepedia.jpg)
 
 Click Quick** Actions** &gt; **Casepedia**, the Casepedia home page is displayed.
 
