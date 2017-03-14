@@ -52,9 +52,7 @@ You can view the following fields in the Root Folder Permissions page:
 
 ##### Authorizing Roles for Root Folder
 
-In the **Permissions** page, select** Role**. 
+In the **Permissions** page, select** Role**.
 
-In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the icon.
-
-
+In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the ![](/assets/SearchIcon.jpg) icon.
 
