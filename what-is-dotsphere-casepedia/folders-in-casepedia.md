@@ -44,8 +44,6 @@ In the Casepedia home page, hover over the Root folder.The Permissions icon is d
 
 Click the icon, the Root Folder Permissions page is displayed.
 
-
-
 You can view the following fields in the Root Folder Permissions page:
 
 * Inherited Permissions—Root Folder is the master folder and it is the first folder in the Folder Hierarchy. Hence, Inherited Permissions will be greyed out and also it is not applicable for Root Folder.
@@ -53,6 +51,10 @@ You can view the following fields in the Root Folder Permissions page:
 * Local Permissions—enables to assign local permissions. 
 
 ##### Authorizing Roles for Root Folder
+
+In the **Permissions** page, select** Role**. 
+
+In the text box, enter a character or a valid role name that exists in BPM and configured in Casepedia, and click the icon.
 
 
 
