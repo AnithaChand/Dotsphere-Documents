@@ -76,5 +76,7 @@ You can view the following fields in the ACL section:
 * **Name**—displays the name of the selected role
 * **Add**, **View**, **Owne**r—displays check boxes to select the operation for which you want to assign the permission
 
+> You can select multiple roles and assign permissions to those roles. Multiple roles are displayed as shown in the following figure:
+
 
 
