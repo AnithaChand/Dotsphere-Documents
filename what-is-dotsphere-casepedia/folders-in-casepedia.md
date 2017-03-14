@@ -86,3 +86,5 @@ Select the permission you want to assign to the selected roles and click **ACL**
 
 ![](/assets/AuthorizationsRole6.jpg)
 
+
+
